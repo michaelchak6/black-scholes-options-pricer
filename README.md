@@ -87,4 +87,3 @@ iv    = implied_volatility(market_price=10.45, S=100, K=100, T=1.0, r=0.05)
 ## Related Project
 
 [Monte Carlo Option Pricer](https://github.com/michaelchak6/monte-carlo-option-pricer) — prices the same European options via 100,000 GBM simulations; benchmarks against this analytical pricer achieving <0.3% pricing error.
-![Output](black_scholes_output.png)
